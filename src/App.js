@@ -8,7 +8,10 @@ function App() {
     
       <Fragment>
         <Header />
-        <Meals />
+        <main>
+        <Meals /> 
+        </main>
+        
       </Fragment>
       
     
